@@ -1,5 +1,5 @@
 {
-    "project_name": "Cookiecutter Website Simple",
+    "project_name": "Name_of_your_vasp_project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "author": "Anonymous"
+    "author": "Author_name"
   }
